@@ -1,0 +1,3 @@
+The Simple Calculator is a Python-based command-line application designed to perform basic arithmetic operations — addition, subtraction, multiplication, and division. It serves as an excellent beginner project to understand user input handling, conditional statements, functions, and error checking in Python.
+
+This calculator is lightweight, easy to use, and runs in the terminal without any external dependencies. The script guides the user step-by-step, prompting them to enter two numbers and choose an operator. It then computes and displays the result, with built-in error handling for invalid inputs and division by zero.
